@@ -1,0 +1,37 @@
+/* = FONTS = */
+@font-face{
+    font-family:'Intro';
+    src:local('Intro Bold'),
+        url('../fonts/Intro Bold/Intro-Bold.eot') format('eot'),
+        url('../fonts/Intro Bold/Intro-Bold.woff') format('woff'),
+        url('../fonts/Intro Bold/Intro-Bold.ttf') format('ttf');
+    font-style:normal;
+    font-weight:800;    
+}
+@font-face{
+    font-family:'DIN Pro';
+    src:local('DIN Pro Regular'),
+        url('../fonts/DIN Pro Regular/DINPro.eot') format('eot'),
+        url('../fonts/DIN Pro Regular/DINPro.woff') format('woff'),
+        url('../fonts/DIN Pro Regular/DINPro.ttf') format('ttf');
+    font-style:normal;
+    font-weight:400;
+}
+@font-face{
+    font-family:'DIN Pro';
+    src:local('DIN Pro Light'),
+        url('../fonts/DIN Pro Light/DINPro-Light.eot') format('eot'),
+        url('../fonts/DIN Pro Light/DINPro-Light.woff') format('woff'),
+        url('../fonts/DIN Pro Light/DINPro-Light.ttf') format('ttf');
+    font-style:normal;
+    font-weight:300;
+}
+@font-face{
+    font-family:'Consolas';
+    src:local('Consolas'),
+        url('../fonts/Consolas/Consolas.eot') format('eot'),
+        url('../fonts/Consolas/Consolas.woff') format('woff'),
+        url('../fonts/Consolas/Consolas.ttf') format('ttf');
+    font-style:normal;
+    font-weight:400;
+}
